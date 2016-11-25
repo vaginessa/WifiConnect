@@ -1,0 +1,7 @@
+#Fri Nov 25 15:58:45 CST 2016
+base.0=D\:\\WorkProjects\\Rendian1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_269d8723f09d43ee93ebe2f45f9adcc0eda047b7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\WorkProjects\\Rendian1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_282b194d5f013a54a7edc8e6661fc9a21cab5031\\classes.dex
+base.1=D\:\\WorkProjects\\Rendian1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_282b194d5f013a54a7edc8e6661fc9a21cab5031
+file.0=D\:\\WorkProjects\\Rendian1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_269d8723f09d43ee93ebe2f45f9adcc0eda047b7\\classes.dex

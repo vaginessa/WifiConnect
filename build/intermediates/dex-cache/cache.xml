@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\WorkProjects\Rendian1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c080b397c11c9707c0e9c633d02a4894bb555dd">
+        <dex dex="D:\WorkProjects\Rendian1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_282b194d5f013a54a7edc8e6661fc9a21cab5031\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Develop\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\WorkProjects\Rendian1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_e90530575df81867a69c0cc451245cd94269c111\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkProjects\Rendian1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d747556685e79c49e4199a2f3b34b2440d278d67">
+        <dex dex="D:\WorkProjects\Rendian1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_269d8723f09d43ee93ebe2f45f9adcc0eda047b7\classes.dex" />
+    </item>
+
+</items>
